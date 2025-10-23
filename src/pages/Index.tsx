@@ -33,7 +33,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
               <Icon name="Scale" size={32} className="text-primary" />
-              <h1 className="text-xl font-bold text-foreground">ИИ-юрист для школ</h1>
+              <h1 className="text-xl font-bold text-foreground">ИИ-Юрист для общеобразовательных учреждений</h1>
             </div>
             <div className="hidden md:flex gap-6">
               {[
