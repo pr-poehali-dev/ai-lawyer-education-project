@@ -70,9 +70,9 @@ const Index = () => {
                 Автоматизация юридической работы
               </Badge>
               <h2 className="text-4xl md:text-5xl font-bold text-foreground leading-tight">
-                ИИ-помощник по разработке
+                <span className="text-primary">ИИ-Юрист</span>
                 <br />
-                <span className="text-primary">локальных актов</span>
+                для общеобразовательных учреждений
               </h2>
               <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
                 Современный инструмент для образовательных учреждений. Создавайте юридически корректные документы
