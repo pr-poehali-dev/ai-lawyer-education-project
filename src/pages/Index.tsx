@@ -134,7 +134,7 @@ const Index = () => {
           <div className="max-w-4xl mx-auto space-y-6 animate-fade-in">
             <div className="text-center space-y-4 mb-8">
               <Icon name="Brain" size={48} className="text-primary mx-auto" />
-              <h2 className="text-3xl font-bold">ИИ-ассистент по локальным актам</h2>
+              <h2 className="text-3xl font-bold">ИИ-Юрист для общеобразовательных учреждений</h2>
               <p className="text-muted-foreground">
                 Опишите требования к документу, и система создаст проект с учётом законодательства
               </p>
